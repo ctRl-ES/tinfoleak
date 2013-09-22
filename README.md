@@ -1,5 +1,8 @@
 tinfoleak
 =========
+Vicente Aguilera Diaz
+@vaguileradiaz
+
 Get detailed information about the activity of a Twitter user.
 
 tinfoleak is a simple Python script that allow to obtain:
