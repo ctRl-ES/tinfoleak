@@ -21,7 +21,7 @@ You can filter all the information by:
 
 
 How to execute "tinfoleak":
-===========================
+
 The first time you runs this script, you need to assign the OAuth settings.
 
 1. Edit "tinfoleak.py"
@@ -34,7 +34,7 @@ The first time you runs this script, you need to assign the OAuth settings.
     ACCESS_TOKEN
     ACCESS_TOKEN_SECRET
 
-How to obtain these values:
+    How to obtain these values:
     https://dev.twitter.com/discussions/631
 
 3. Save "tinfoleak.py"
