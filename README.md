@@ -25,16 +25,17 @@ How to execute "tinfoleak":
 The first time you runs this script, you need to assign the OAuth settings.
 
 1. Edit "tinfoleak.py"
-Use your favorite editor ;-)
+    Use your favorite editor ;-)
 
 2. Give value to these variables:
-CONSUMER_KEY
-CONSUMER_SECRET
-ACCESS_TOKEN
-ACCESS_TOKEN_SECRET
+
+    CONSUMER_KEY
+    CONSUMER_SECRET
+    ACCESS_TOKEN
+    ACCESS_TOKEN_SECRET
 
 How to obtain these values:
-https://dev.twitter.com/discussions/631
+    https://dev.twitter.com/discussions/631
 
 3. Save "tinfoleak.py"
 
